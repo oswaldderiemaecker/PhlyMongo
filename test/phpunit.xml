@@ -2,7 +2,7 @@
 <phpunit bootstrap="./Bootstrap.php" colors="true">
     <testsuites>
         <testsuite name="PhlyMongo Module Tests">
-            <directory>./test</directory>
+            <directory>./</directory>
         </testsuite>
     </testsuites>
 </phpunit>
